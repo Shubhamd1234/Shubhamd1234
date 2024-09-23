@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Shubham Kumar
 
 ### 👀 About Me
-I'm passionate about **Data Science** and dedicated to extracting meaningful insights from data. I have proficiency in **Python, Machine Learning, Statistics, AWS SageMaker, SQL, MS Excel, Microsoft Dynamics NAV**, and data visualization tools like **Tableau** and **Power BI**.
+I'm passionate about **Data Science** and dedicated to extracting meaningful insights from data. I have proficiency in **Python, Machine Learning, Statistics, AWS SageMaker, SQL, MS Excel, Microsoft Dynamics NAV**, and Data visualization tools like **Tableau** and **Power BI**.
 
 Actively seeking opportunities to work as a **Data Scientist**, leveraging data to drive informed decision-making.
 
