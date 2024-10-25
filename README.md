@@ -21,7 +21,7 @@ Actively seeking opportunities to work as a **Data Scientist**, leveraging data 
 ---
 
 ### 💼 Let’s Collaborate
-I’m actively seeking opportunities as a **Data Scientist** to apply my skills in solving real-world challenges.
+I’m actively seeking opportunities as a **Data Analyst** or **Data Scientist** to apply my skills in solving real-world challenges.
 
 ### 📫 Reach me at: Dubey9245@gmail.com
 
